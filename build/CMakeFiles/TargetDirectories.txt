@@ -1,0 +1,5 @@
+/home/chris/CppTutorialCode/build/CMakeFiles/rebuild_cache.dir
+/home/chris/CppTutorialCode/build/CMakeFiles/edit_cache.dir
+/home/chris/CppTutorialCode/build/SmartPointers/CMakeFiles/rebuild_cache.dir
+/home/chris/CppTutorialCode/build/SmartPointers/CMakeFiles/smart_pointer.dir
+/home/chris/CppTutorialCode/build/SmartPointers/CMakeFiles/edit_cache.dir
